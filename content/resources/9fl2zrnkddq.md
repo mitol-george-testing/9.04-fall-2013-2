@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: ''
+file: null
+file_location: /coursemedia/9-04-sensory-systems-fall-2013/a4e1fb25d635bc05d99716c4cf7418b3_9fL2zRnkDdQ.srt
+file_type: application/x-subrip
+resourcetype: Other
+title: 3play caption file
+uid: a4e1fb25-d635-bc05-d997-16c4cf7418b3
+---

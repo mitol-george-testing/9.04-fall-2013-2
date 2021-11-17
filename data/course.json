@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "742c671b-83ff-dc26-94ec-01222480e506",
+      "4770a912-0ac1-5c2b-2750-d819b534e616"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Sensory Systems",
+  "course_description": "This course examines the neural bases of sensory perception. The focus is on physiological and anatomical studies of the mammalian nervous system as well as behavioral studies of animals and humans. Topics include visual pattern, color and depth perception, auditory responses and sound localization, and somatosensory perception.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.04",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
